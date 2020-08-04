@@ -8,7 +8,7 @@ All the code that I write going through the official Kivy Tutorials
 <img src="kivy-basics/kivy-lifecycle.jpg" height=600px>
 
 ## Kivy App Architecture
-<img src='kivy-basics/kivy-architecture.jpg' height=500px>
+<img src='kivy-basics/kivy-architecture.jpg' width=400px height=300px>
 <br>
 
 **Core Provider**:
