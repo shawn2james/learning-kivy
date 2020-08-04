@@ -21,3 +21,13 @@ A piece of code that adds support to an input device
   - Gesture Detection: detect various kinds of strokes
   - Kivy Language: efficiently describe user interfaces
   - Properties: link widget code to UI description
+
+## UIX
+  - Widgets: user interface elements that offers functionality to your program
+  - Layouts: used to arrange widgets
+
+## Input Events (Touches)
+  Three states of touches:
+    - Down: a touch is down only once, at the very moment where it first appears
+    - Move: whenever a 2D position of the touch changes
+    - Up: a touch goes up at most once, or never.
