@@ -11,7 +11,7 @@ All the code that I write going through the official Kivy Tutorials
 <img src='kivy-basics/kivy-architecture.jpg' width=500px height=300px>
 
 **Core Provider**:
-A piece of code that uses an API to talk to the operating system on one side and to Kivy on the other.
+A piece of code that uses an API to talk to the operating system on one side and to Kivy on the other.<br>
 **Input Provider**:
 A piece of code that adds support to an input device
 
