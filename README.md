@@ -2,9 +2,7 @@
 **Link**: https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf
 <br>
 <br>
-All the code that I write going through the official Kivy Tutorials.
-
-All the contents of this repository is taken from pdf available in the link above.
+All the code that I write going through the official Kivy Tutorials
 
 ## Kivy App Lifecycle
 <img src='kivy-basics/kivy-lifecycle.jpg'>
@@ -12,5 +10,5 @@ All the contents of this repository is taken from pdf available in the link abov
 ## Kivy App Architecture
 <img src='kivy-basics/kivy-architecture.jpg'>
 <br>
-#### Core Providers:
+### Core Providers:
 A piece of code that uses an API to talk to the operating system on one side and to Kivy on the other.
