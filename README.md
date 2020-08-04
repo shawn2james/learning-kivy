@@ -4,5 +4,5 @@
 <br>
 All the code that I write going through the official Kivy Tutorials
 
-## Kivy Lifecycle
+## Kivy App Lifecycle
 <img src='kivy-basics/kivy-lifecycle.jpg'>
