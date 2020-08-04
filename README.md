@@ -34,4 +34,4 @@ Three states of touches:
   - Up: a touch goes up at most once, or never.
 
 ## Event Handling in Kivy
-<img src="kivy-basics/event-handling.jpg" width=500px height=600px>
+<img src="kivy-basics/event-handling.jpg" width=500px height=900px>
