@@ -8,7 +8,7 @@ All the code that I write going through the official Kivy Tutorials
 <img src="kivy-basics/kivy-lifecycle.jpg" height=600px>
 
 ## Kivy App Architecture
-<img src='kivy-basics/kivy-architecture.jpg' width=400px height=300px>
+<img src='kivy-basics/kivy-architecture.jpg' width=500px height=300px>
 <br>
 
 **Core Provider**:
@@ -34,4 +34,4 @@ Three states of touches:
   - Up: a touch goes up at most once, or never.
 
 ## Event Handling in Kivy
-<img src="kivy-basics/event-handling.jpg">
+<img src="kivy-basics/event-handling.jpg" width=500px height=600px>
