@@ -38,3 +38,6 @@ Three states of touches:
   - Down: a touch is down only once, at the very moment where it first appears
   - Move: whenever a 2D position of the touch changes
   - Up: a touch goes up at most once, or never.
+
+## Event Handling in Kivy
+<img src="kivy-basics/event-handling.jpg">
