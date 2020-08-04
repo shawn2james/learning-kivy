@@ -5,7 +5,7 @@
 All the code that I write going through the official Kivy Tutorials
 
 ## Kivy App Lifecycle
-<img src="kivy-basics/kivy-lifecycle.jpg" height=300px>
+<img src="kivy-basics/kivy-lifecycle.jpg" height=500px>
 
 ## Kivy App Architecture
 <img src='kivy-basics/kivy-architecture.jpg'>
