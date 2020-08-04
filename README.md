@@ -10,5 +10,5 @@ All the code that I write going through the official Kivy Tutorials
 ## Kivy App Architecture
 <img src='kivy-basics/kivy-architecture.jpg'>
 <br>
-### Core Providers:
+**Core Providers**:
 A piece of code that uses an API to talk to the operating system on one side and to Kivy on the other.
