@@ -27,7 +27,7 @@ A piece of code that adds support to an input device
   - Layouts: used to arrange widgets
 
 ## Input Events (Touches)
-  Three states of touches:
-    - Down: a touch is down only once, at the very moment where it first appears
-    - Move: whenever a 2D position of the touch changes
-    - Up: a touch goes up at most once, or never.
+Three states of touches:
+  - Down: a touch is down only once, at the very moment where it first appears
+  - Move: whenever a 2D position of the touch changes
+  - Up: a touch goes up at most once, or never.
