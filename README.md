@@ -1,6 +1,4 @@
 # Kivy Tutorials
-<br>
-<br>
 All the code that I write while learning the Kivy library in Python.
 
 ## Kivy App Lifecycle
