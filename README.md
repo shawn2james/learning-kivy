@@ -2,10 +2,10 @@
 All the code that I write while learning the Kivy library in Python.
 
 ## Kivy App Lifecycle
-<img src="kivy-basics/kivy-lifecycle.jpg" height=600px>
+<img src="kivy-lifecycle.jpg" height=600px>
 
 ## Kivy App Architecture
-<img src='kivy-basics/kivy-architecture.jpg' width=500px height=300px>
+<img src='kivy-architecture.jpg' width=500px height=300px>
 <br>
 
 **Core Provider**:
@@ -31,4 +31,4 @@ Three states of touches:
   - Up: a touch goes up at most once, or never.
 
 ## Event Handling in Kivy
-<img src="kivy-basics/event-handling.jpg" width=800px height=500px>
+<img src="event-handling.jpg" width=800px height=500px>
