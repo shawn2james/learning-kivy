@@ -34,7 +34,7 @@ Three states of touches:
 <img src="event-handling.jpg" width=800px height=500px>
 
 ## RESOURCES
-  - [Paint App Tutorial](https://kivy.org/doc/stable/tutorials/firstwidget.html){:target="_blank"}
-  - [Pong Game Tutorial](https://kivy.org/doc/stable/tutorials/pong.html){:target="_blank"}
-  - [Kivy API Reference](https://kivy.org/doc/stable/api-kivy.html){:target="_blank"}
-  - [Kivy Tutorial PDF](https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf){:target="_blank"}
+  - [Paint App Tutorial](https://kivy.org/doc/stable/tutorials/firstwidget.html)
+  - [Pong Game Tutorial](https://kivy.org/doc/stable/tutorials/pong.html)
+  - [Kivy API Reference](https://kivy.org/doc/stable/api-kivy.html)
+  - [Kivy Tutorial PDF](https://buildmedia.readthedocs.org/media/pdf/kivy/latest/kivy.pdf)
